@@ -11,7 +11,7 @@ class MathOperation{
 	}
 }
 
-public class Method_overloading {
+public class MethodOverloading {
 
 	public static void main(String[] args) {
 		
@@ -22,3 +22,4 @@ public class Method_overloading {
 	}
 
 }
+
