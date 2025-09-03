@@ -57,7 +57,7 @@ class PremiumSavingsAccount extends SavingsAccount2 {
  }
 }
 
-public class Multilevel_example {
+public class MultilevelExample {
  public static void main(String[] args) {
      PremiumSavingsAccount acc = new PremiumSavingsAccount("Abbas", 5000, 5, 2);
 
@@ -66,3 +66,4 @@ public class Multilevel_example {
      acc.addBonus();    // from PremiumSavingsAccount
  }
 }
+
