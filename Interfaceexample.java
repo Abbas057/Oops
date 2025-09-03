@@ -61,7 +61,7 @@ class SavingsAccount extends BankAccount implements Interest, Loan {
 }
 
 //Main class
-public class Interfac_example {
+public class Interfaceexample {
  public static void main(String[] args) {
      SavingsAccount acc = new SavingsAccount("Abbas", 101, 5000, 5);
 
@@ -71,4 +71,5 @@ public class Interfac_example {
      acc.applyLoan(10000);  // from Loan interface
  }
 }
+
 
