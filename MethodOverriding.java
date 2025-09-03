@@ -35,7 +35,7 @@ class Company extends User{
 	
 	
 }
-public class Method_overriding {
+public class MethodOverriding {
 
 	public static void main(String[] args) {
 		
@@ -45,3 +45,4 @@ public class Method_overriding {
 	}
 
 }
+
