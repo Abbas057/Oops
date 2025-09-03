@@ -46,7 +46,7 @@ class SavingsAccount1 extends BankAccount1 {
 }
 
 // Main class
-public class Single_inheritance {
+public class SingleInheritance {
     public static void main(String[] args) {
         SavingsAccount acc = new SavingsAccount("Abbas", 101, 5000, 5);
 
@@ -55,3 +55,4 @@ public class Single_inheritance {
         acc.addInterest();  // child class method
     }
 }
+
