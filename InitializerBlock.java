@@ -16,7 +16,7 @@ class InitDemo {
     }
 }
 
-public class Initializer_Block {
+public class InitializerBlock {
 
 	public static void main(String[] args) {
 
@@ -26,3 +26,4 @@ public class Initializer_Block {
 	}
 
 }
+
